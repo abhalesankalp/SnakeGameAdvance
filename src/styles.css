@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.GameBoard {
+  width: 600px;
+  height: 450px;
+  background-color: lightgray;
+  border: 1px ridge yellow;
+}
+
+.ButtonCSS {
+  top: 350px;
+  background-color: lightgray;
+  position: relative;
+}

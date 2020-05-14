@@ -1,2 +1,0 @@
-# SnakeGameAdvance
-Created with CodeSandbox
